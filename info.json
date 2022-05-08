@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "風にゆれる光-D9of2a4kE_k.mp4",
+            "path": "music_r2/videos/風にゆれる光-D9of2a4kE_k.mp4",
+            "size": 6.117523456000001
+        },
+        {
             "name": "Etoile - Summer Fantasy (1993)-sG7Ryc2rP20.mp4",
             "path": "music_r2/videos/Etoile - Summer Fantasy (1993)-sG7Ryc2rP20.mp4",
             "size": 42.493715456000004
@@ -32,5 +37,5 @@
             "size": 5.953332224
         }
     ],
-    "total_size": 95.415325696
+    "total_size": 101.53284915200001
 }
