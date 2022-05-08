@@ -1,5 +1,16 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Etoile - Summer Fantasy (1993)-sG7Ryc2rP20.mp4",
+            "path": "music_r2/videos/Etoile - Summer Fantasy (1993)-sG7Ryc2rP20.mp4",
+            "size": 42.493715456000004
+        },
+        {
+            "name": "A Fine Romance-TE_2oat3sNA.mp4",
+            "path": "music_r2/videos/A Fine Romance-TE_2oat3sNA.mp4",
+            "size": 5.953332224
+        }
+    ],
+    "total_size": 48.447047680000004
 }
