@@ -17,6 +17,11 @@
             "size": 12.126409728
         },
         {
+            "name": "Franz Joseph Haydn - 'Surprise' (Symphony no. 94)-tF5kr251BRs.mp4",
+            "path": "music_r2/videos/Franz Joseph Haydn - 'Surprise' (Symphony no. 94)-tF5kr251BRs.mp4",
+            "size": 9.616584704000001
+        },
+        {
             "name": "João Gilberto - 06 - O Amor Em Paz-xHh3chO2g-o.mp4",
             "path": "music_r2/videos/João Gilberto - 06 - O Amor Em Paz-xHh3chO2g-o.mp4",
             "size": 3.410249728
@@ -50,7 +55,12 @@
             "name": "A Fine Romance-TE_2oat3sNA.mp4",
             "path": "music_r2/videos/A Fine Romance-TE_2oat3sNA.mp4",
             "size": 5.953332224
+        },
+        {
+            "name": "It's Been a Long, Long Time-iP0tHmoc1rs.mp4",
+            "path": "music_r2/videos/It's Been a Long, Long Time-iP0tHmoc1rs.mp4",
+            "size": 7.359608832
         }
     ],
-    "total_size": 129.498412032
+    "total_size": 146.47460556800002
 }
